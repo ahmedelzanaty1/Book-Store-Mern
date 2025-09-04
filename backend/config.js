@@ -1,0 +1,1 @@
+ export const MangoDbUrl ='mongodb+srv://root:root@book-store-mern.hrobby2.mongodb.net/books-collection?retryWrites=true&w=majority&appName=Book-Store-MERN' 
